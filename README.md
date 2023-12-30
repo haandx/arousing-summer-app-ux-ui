@@ -17,7 +17,8 @@ An application that provides suggestions for summer activities Through it, he ca
 - Filtered search Schedule reservations Offer alerts User requirements
 4. User requirements :
 - Supports languages, accurate positioning, reducing search errors and being more accurate
-5. system requirements : high programming languages , system architects and classes
+5. system requirements :
+- high programming languages , system architects and classes
 
 ## non-functional requirements 
 - Easy-to understand and user-friendly interfaces
